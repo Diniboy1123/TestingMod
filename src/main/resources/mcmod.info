@@ -1,0 +1,15 @@
+[
+{
+  "modid": "mtm",
+  "name": "Testing mod by diniboy",
+  "description": "A testing mod.",
+  "version": "0.1",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["diniboy"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
